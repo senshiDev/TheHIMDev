@@ -31,3 +31,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/em-jimbo/em-jimbo/output/snake.svg" alt="Snake animation" />
+
+###
