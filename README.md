@@ -1,4 +1,4 @@
-<h2 align="left"> hi im HIM <br><br>🌟 Front-End Developer<br></h2>
+<h2 align="left"> hi im HIM <br><br> Front-End Developer<br></h2>
 
 ###
 
