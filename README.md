@@ -17,6 +17,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0081CB?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![framer motion](https://img.shields.io/badge/TailwindCSS-0081CB?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/framer_motion-000000?style=for-the-badge&logo=framer&logoColor=white)
 
 🔧 Tools & Platforms
 
