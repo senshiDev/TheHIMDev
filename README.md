@@ -1,4 +1,9 @@
-<h2 align="left"> hi im HIM <br><br> Front-End Developer<br></h2>
+<h2 align="left"> hi im HIM <br><br><br></h2>
+
+
+<p>I am a simple and dedicated programmer who strives to write better code every day, hoping to one day contribute a new idea to the world. </p>
+
+
 
 ###
 
