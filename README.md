@@ -23,7 +23,6 @@
 ###
 
 
-<h2 align="left"> looking for front-end job </h2>
 
 ###
 
