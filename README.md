@@ -1,4 +1,4 @@
-<h2 align="left"> hi im HIM </h2>
+<h2 align="left"> hi im Bahram </h2>
 
 
 <p>I am a simple and dedicated programmer who strives to write better code every day, hoping to one day contribute a new idea to the world. </p>
